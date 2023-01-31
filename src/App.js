@@ -1,6 +1,5 @@
 import React from "react";
 import Slide from "./components/Slide";
-import data from "./data";
 const App = () => {
   return (
     <div className="container">
